@@ -1,0 +1,10 @@
+{
+  "name": "practice1",
+  "version": "1.0.0",
+  "description": "Best",
+  "main": "index.js",
+  "repository": "https://github.com/atikinvobud/practice1.git",
+  "author": "atikinvobud <dubov.n5@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
